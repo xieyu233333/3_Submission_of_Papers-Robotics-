@@ -1,6 +1,6 @@
-This project is intended for submissions to IEEE journals and conferences in robotics, primarily including RAL, IROS, TIE, TRO, etc. Additionally, it covers websites for searching journals, grants, and patents, as well as some channels for paper searching and plagiarism checking. Notably, [connectedpapers] (# 15-Connected Papers Citation Relationship Search Website ) and [letpub] (# 12-Letpub Journal Ranking and Submission Evaluation) are extremely useful! Highly recommended by the author in good conscience!
+This project is intended for submissions to IEEE journals and conferences in robotics, primarily including RAL, IROS, TIE, TRO, etc. Additionally, it covers websites for searching journals, grants, and patents, as well as some channels for paper searching and plagiarism checking. Notably, **connectedpapers** (# 15-Connected Papers Citation Relationship Search Website ) and **letpub** (# 12-Letpub Journal Ranking and Submission Evaluation) are extremely useful! Highly recommended by the author in good conscience!
 
-本项目用于IEEE机器人领域的期刊和会议投稿，主要包括RAL，IROS，TIE，TRO等。此外查询期刊、基金、专利的网站，一些论文搜索和查重的渠道也包含在内。值得注意的是，connectedpapers（15.论文引用关系搜索网站）和letpub（12.期刊分区和投稿评价查询）极为好用！作者良心推荐！
+本项目用于IEEE机器人领域的期刊和会议投稿，主要包括RAL，IROS，TIE，TRO等。此外查询期刊、基金、专利的网站，一些论文搜索和查重的渠道也包含在内。值得注意的是，**connectedpapers**（15.论文引用关系搜索网站）和**letpub**（12.期刊分区和投稿评价查询）极为好用！作者良心推荐！
 
 
 If you find this document helpful, please give it a star or cite our paper. Wishing you success in your paper submissions!
